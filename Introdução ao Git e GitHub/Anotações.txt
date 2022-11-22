@@ -1,0 +1,3 @@
+Link para dowloand do Git: https://git-scm.com/dowloads
+O Git é um terminal estendido para utilizar o uso do GIT.
+Link para acesso ao GitHub: https://github.com/

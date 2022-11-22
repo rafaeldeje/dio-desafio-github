@@ -1,6 +1,6 @@
 # Desafio Dio - Git & Github
 </br>
- <h2>Iremos primeiro criar um repositório </h2>
+<h2>Iremos primeiro criar um repositório </h2>
 <p> Desafios de projetos sobre <strong>Git-Github</strong></p>
 
 <h2> Considerações iniciais </h2>
